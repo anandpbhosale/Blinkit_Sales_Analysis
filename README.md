@@ -1,19 +1,21 @@
 # Blinkit_Sales_Analysis_Dashboard
 
-Overview
+**Overview :**
+
 This repository contains a Power BI project for analyzing Blinkit sales data. The interactive dashboard provides valuable insights into sales performance, item characteristics, and outlet metrics, helping to make data-driven decisions.
 
-Project Description
+**Project Description :**
+
 The Blinkit Sales Analysis dashboard features a range of visualizations and interactive elements designed to offer a comprehensive view of sales data:
 
-Key Features :-
+**Key Features :-**
 
-Cards: Display essential metrics at a glance:-
+**Cards:** Display essential metrics at a glance:-
 
-Total Sales: Overall revenue generated.
-Avg Sales: Average sales amount.
-No of Items: Total number of items sold.
-Avg Rating: Average customer rating.
+- Total Sales: Overall revenue generated.
+- Avg Sales: Average sales amount.
+- No of Items: Total number of items sold.
+- Avg Rating: Average customer rating.
 
 Charts: Visualize different aspects of the data:-
 
