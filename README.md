@@ -39,9 +39,8 @@ The Blinkit Sales Analysis dashboard features a range of visualizations and inte
 - Comprehensive Charts: Gain insights into various dimensions of the sales data through interactive charts.
 - Dynamic Slicers: Customize data views by filtering based on outlet location type, size, and item type.
 
-Technologies Used :-
-
-Power BI: For creating and visualizing the interactive dashboard.
-DAX (Data Analysis Expressions): For complex calculations and creating custom metrics.
-Power Query: For data preparation and transformation.
+**Technologies Used :-**
+- Power BI: For creating and visualizing the interactive dashboard.
+- DAX (Data Analysis Expressions): For complex calculations and creating custom metrics.
+- Power Query: For data preparation and transformation.
 
