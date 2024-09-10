@@ -44,3 +44,6 @@ The Blinkit Sales Analysis dashboard features a range of visualizations and inte
 - DAX (Data Analysis Expressions): For complex calculations and creating custom metrics.
 - Power Query: For data preparation and transformation.
 
+  
+![Dashboard](https://github.com/user-attachments/assets/9e79bdef-0e95-46fe-aa3e-29b6d28f4e2f)
+
