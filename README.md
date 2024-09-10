@@ -17,27 +17,27 @@ The Blinkit Sales Analysis dashboard features a range of visualizations and inte
 - No of Items: Total number of items sold.
 - Avg Rating: Average customer rating.
 
-Charts: Visualize different aspects of the data:-
+**Charts:** Visualize different aspects of the data:-
 
-Fat Content - Donut Chart: Shows the distribution of fat content across items.
-Fat by Outlet - Clustered Bar Chart: Compares fat content levels across different outlets.
-Item Type - Stacked Bar Chart: Breaks down sales by item type.
-Outlet Establishment - Line Chart: Illustrates trends in outlet establishment over time.
-Outlet Size - Donut Chart: Provides a breakdown of sales by outlet size.
-Outlet Location - Funnel Chart: Visualizes the sales funnel by outlet location.
-Outlet Type - Matrix: Offers a detailed view of sales and metrics by outlet type.
+- Fat Content - Donut Chart: Shows the distribution of fat content across items.
+- Fat by Outlet - Clustered Bar Chart: Compares fat content levels across different outlets.
+- Item Type - Stacked Bar Chart: Breaks down sales by item type.
+- Outlet Establishment - Line Chart: Illustrates trends in outlet establishment over time.
+- Outlet Size - Donut Chart: Provides a breakdown of sales by outlet size.
+- Outlet Location - Funnel Chart: Visualizes the sales funnel by outlet location.
+- Outlet Type - Matrix: Offers a detailed view of sales and metrics by outlet type.
 
-Slicers: Allow for dynamic data filtering:-
+**Slicers:** Allow for dynamic data filtering:-
 
-Outlet Location Type: Filter data based on outlet location types.
-Outlet Size: Refine views based on outlet size.
-Item Type: Filter data by item type to focus on specific product categories.
+- Outlet Location Type: Filter data based on outlet location types.
+- Outlet Size: Refine views based on outlet size.
+- Item Type: Filter data by item type to focus on specific product categories.
 
-Features :-
+**Features :-**
 
-Interactive Cards: Quickly view key performance indicators.
-Comprehensive Charts: Gain insights into various dimensions of the sales data through interactive charts.
-Dynamic Slicers: Customize data views by filtering based on outlet location type, size, and item type.
+- Interactive Cards: Quickly view key performance indicators.
+- Comprehensive Charts: Gain insights into various dimensions of the sales data through interactive charts.
+- Dynamic Slicers: Customize data views by filtering based on outlet location type, size, and item type.
 
 Technologies Used :-
 
